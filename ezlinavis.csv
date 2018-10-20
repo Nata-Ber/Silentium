@@ -1,0 +1,59 @@
+Source,Type,Target,Weight
+Валер,Undirected,Г-жа Пернель,3
+Валер,Undirected,Дамис,3
+Валер,Undirected,Дорина,4
+Валер,Undirected,Клеант,3
+Валер,Undirected,Мариана,4
+Валер,Undirected,Оргон,3
+Валер,Undirected,Тартюф,1
+Валер,Undirected,Эльмира,3
+Валер,Undirected,офицер,1
+Г-жа Пернель,Undirected,Г-н Лояль,1
+Г-жа Пернель,Undirected,Дамис,7
+Г-жа Пернель,Undirected,Дорина,7
+Г-жа Пернель,Undirected,Клеант,7
+Г-жа Пернель,Undirected,Мариана,7
+Г-жа Пернель,Undirected,Оргон,6
+Г-жа Пернель,Undirected,Тартюф,1
+Г-жа Пернель,Undirected,Флипота,1
+Г-жа Пернель,Undirected,Эльмира,7
+Г-жа Пернель,Undirected,офицер,1
+Г-н Лояль,Undirected,Дамис,1
+Г-н Лояль,Undirected,Дорина,1
+Г-н Лояль,Undirected,Клеант,1
+Г-н Лояль,Undirected,Мариана,1
+Г-н Лояль,Undirected,Оргон,1
+Г-н Лояль,Undirected,Эльмира,1
+Дамис,Undirected,Дорина,10
+Дамис,Undirected,Клеант,10
+Дамис,Undirected,Мариана,8
+Дамис,Undirected,Оргон,9
+Дамис,Undirected,Тартюф,4
+Дамис,Undirected,Флипота,1
+Дамис,Undirected,Эльмира,10
+Дамис,Undirected,офицер,1
+Дорина,Undirected,Клеант,13
+Дорина,Undirected,Мариана,13
+Дорина,Undirected,Оргон,9
+Дорина,Undirected,Тартюф,2
+Дорина,Undirected,Флипота,1
+Дорина,Undirected,Эльмира,10
+Дорина,Undirected,офицер,1
+Клеант,Undirected,Мариана,10
+Клеант,Undirected,Оргон,11
+Клеант,Undirected,Тартюф,2
+Клеант,Undirected,Флипота,1
+Клеант,Undirected,Эльмира,10
+Клеант,Undirected,офицер,1
+Мариана,Undirected,Оргон,9
+Мариана,Undirected,Тартюф,1
+Мариана,Undirected,Флипота,1
+Мариана,Undirected,Эльмира,10
+Мариана,Undirected,офицер,1
+Оргон,Undirected,Тартюф,6
+Оргон,Undirected,Эльмира,13
+Оргон,Undirected,офицер,1
+Тартюф,Undirected,Эльмира,6
+Тартюф,Undirected,офицер,1
+Флипота,Undirected,Эльмира,1
+Эльмира,Undirected,офицер,1
